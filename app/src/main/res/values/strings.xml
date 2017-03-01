@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price in Rupees</string>
+    <string name="current_stock">Current Stock: </string>
+    <string name="total_quantity_text">Total Quantity</string>
+
+    <string name="text_sold_quantity">Sold Quantity: </string>
+    <string name="description_hint">Write a description about the product..</string>
+    <string name="make_new_order">Make a New Order</string>
+    <string name="new_quantity">Enter Quantity</string>
+    <string name="place_order_button">Place Order</string>
+    <string name="add_new_product">Add a New Product!!</string>
+    <string name="activity_title_create_new_product">Add New Product!</string>
+    <string name="activity_title_edit_product">Edit Product</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Exit without saving?</string>
+    <string name="discard">Discard Changes</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="product_id">Product ID</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="email_Id">Enter email ID</string>
+    <string name="delete_all">Delete All Products</string>
+    <string name="empty_stock">Stock is Empty. Order Something</string>
+    <string name="empty_view_text">Hello! \n Start adding products!</string>
+</resources>
